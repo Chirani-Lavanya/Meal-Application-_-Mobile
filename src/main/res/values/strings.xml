@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meal Search</string>
+    <string name="add_meals_db">Add Meals to DB</string>
+    <string name="search_by_ingredient">Search for Meals By Ingredient</string>
+    <string name="search_for_meals">Search for Meals</string>
+    <string name="retrieve_meals">Retrieve Meals</string>
+    <string name="save_meals_to_db">Save meals to Database</string>
+    <string name="search">Search</string>
+    <string name="search_for_meals_by_name">Search for Meals by Name</string>
+</resources>
